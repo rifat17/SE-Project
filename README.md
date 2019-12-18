@@ -12,7 +12,7 @@ Software Enginnering Lab Project 'Backend' in Django.
 - make venv
 
   ```
-  python3 -m venv DjangoProject
+  python3 -m venv DjangoProjectENV
   ```
 - active venv
 
