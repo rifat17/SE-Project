@@ -1,9 +1,22 @@
-#Steps to be followed
+# Steps to be followed
 
 - clone the project
+```
+    git clone
+```
+
 - make venv
-  > python3 -m venv DjangoProject
+
+  ```
+  python3 -m venv DjangoProject
+  ```
 - active venv
-  > source DjangoProject/bin/activate
+
+  ```
+  source DjangoProject/bin/activate
+  ```
 - install requirments
-  > pip install -r requirments.txt
+
+  ```
+  pip install -r requirments.txt
+  ```
