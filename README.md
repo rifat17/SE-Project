@@ -17,7 +17,7 @@ Software Enginnering Lab Project 'Backend' in Django.
 - active venv
 
   ```
-  source DjangoProject/bin/activate
+  source DjangoProjectENV/bin/activate
   ```
 - install requirments
 
